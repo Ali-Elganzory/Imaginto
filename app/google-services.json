@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068400623773",
+    "firebase_url": "https://imaginto-test.firebaseio.com",
+    "project_id": "imaginto-test",
+    "storage_bucket": "imaginto-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068400623773:android:590cc43f6131ade5",
+        "android_client_info": {
+          "package_name": "com.ganzory.imaginto_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068400623773-q96q403434530af7rtc2brndc6igboie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ganzory.imaginto_test",
+            "certificate_hash": "35cc85112cf0c8c4a598d8690d5ae1b309326db8"
+          }
+        },
+        {
+          "client_id": "1068400623773-adeb8u5f51bahmv7k742v5s6s2mof5j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1aMySz0pqiIxSoC8VaUjIV7ogOcF314"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068400623773-adeb8u5f51bahmv7k742v5s6s2mof5j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

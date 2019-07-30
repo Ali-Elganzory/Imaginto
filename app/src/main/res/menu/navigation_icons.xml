@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/market_btn"
+    android:icon="@drawable/ic_market_icon"
+    android:title="Market">
+    </item>
+
+    <item
+    android:id="@+id/ar_btn"
+    android:icon="@drawable/ic_ar_icon"
+    android:title="Camera">
+    </item>
+
+    <item
+    android:id="@+id/promos_btn"
+    android:icon="@drawable/ic_profile_icon"
+    android:title="Promos">
+    </item>
+
+</menu>

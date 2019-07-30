@@ -1,0 +1,1 @@
+include ':app', ':imagintoAR', ':android_component', ':core-1.1.0', ':unity_android_bridge'
